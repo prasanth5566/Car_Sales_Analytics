@@ -53,7 +53,7 @@ Trend Monitoring: Orders peak midweek (Wednesdays, Mondays).
 Segment Mix: Sport and Compact segments lead in sales contribution.
 Inventory Actions: Bottom-performing models identified for potential discounting or removal.
 
-📸** Dashboard Preview**
+**📸Dashboard Preview**
 
 **Home Page**:
 Dashboard looks like
